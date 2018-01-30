@@ -4,7 +4,7 @@
         </p>
         <p  class="text-white  m-1 p-1 h6">
             Powered by <a href="https://you2php.github.io/" target="_blank" class="text-white font-italic">YOU2PHP</a> 
-            <a href="./embed/upgrade.php" target="_blank" class="text-white ml-2">检查更新</a>
+            <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1272552364'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1272552364%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
         </p>
     </footer>
   
